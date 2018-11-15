@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 title: "Library Carpentry at The University of Melbourne"
 authors: "Belinda Weaver"
 category: blog
