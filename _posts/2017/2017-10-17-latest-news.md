@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 title: "Library Carpentry: Update from the Community Calls"
 category: blog
 ---
