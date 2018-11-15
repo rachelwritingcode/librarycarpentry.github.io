@@ -3,8 +3,9 @@ layout: page
 authors: ["Chris Erdmann, John Chodacki"]
 title: "The Carpentries Instructor Training for Librarians"
 teaser: "Upcoming, open Instructor training for librarians"
-category: ["blog"]
+category: blog
 ---
+
 
 By Chris Erdmann, John Chodacki
 
