@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann, John Chodacki"]
 title: "The Carpentries Instructor Training for Librarians"
 teaser: "Upcoming, open Instructor training for librarians"
