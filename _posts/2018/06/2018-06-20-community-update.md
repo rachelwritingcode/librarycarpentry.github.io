@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: page
 authors: ["Chris Erdmann", “Belinda Weaver”]
 title: "Library Carpentry Community Update"
 category: ["blog"]
